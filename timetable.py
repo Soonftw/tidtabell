@@ -1,31 +1,5 @@
 #!/usr/bin/env python3
-"""
 
-asdfjblasdjkbfalsdbflabsdf
-
-asd
-f
-asd
-f
-asd
-f
-asd
-fa
-sdfa
-sdf
-a
-sdf
-as
-df
-as
-df
-asd
-f
-asdf
-as
-df
-
-"""
 from tkinter import *
 import time
 import requests
