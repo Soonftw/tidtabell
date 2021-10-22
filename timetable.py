@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Nu har jag gjort en ändring
 from tkinter import *
 import time
 import requests
