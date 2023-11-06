@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#Hej :)
+
 from tkinter import *
 import time
 import requests
